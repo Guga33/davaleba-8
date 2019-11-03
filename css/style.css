@@ -14,7 +14,7 @@
 	-webkit-box-align: center;
 	    -ms-flex-align: center;
 	        align-items: center;
-	margin-top: 20px;
+	margin-top: 10px;
 }
 .opacity{
 	opacity: 50%;
@@ -279,7 +279,6 @@
 	font-size: 20px;
 	font-family: 'Roboto', sans-serif;
 	vertical-align: top;
-}
 }
 /*MEDIA*/
 @media (max-width: 1170px){
